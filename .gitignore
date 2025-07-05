@@ -12,6 +12,7 @@
 
 
 go.mod
+go.sum
 
 plan
 settlectl
