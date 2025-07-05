@@ -10,8 +10,6 @@
 .env.test
 .env.production
 
-
-go.mod
 go.sum
 
 plan
