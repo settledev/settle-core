@@ -1,0 +1,7 @@
+host "app-server" {
+  hostname = "10.0.0.1"
+  user     = "admin"
+  port     = 22
+  keyfile  = "/path/to/key"
+  group    = "application"
+}

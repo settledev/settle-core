@@ -1,0 +1,4 @@
+package "nginx" {
+    version = "latest"
+    manager = "apt"
+}
