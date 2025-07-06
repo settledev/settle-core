@@ -8,11 +8,11 @@
 
 ## 🚀 Features
 
-- ** Agentless**: No daemons or remote installations. Uses native SSH to connect to your servers
+- **Agentless**: No daemons or remote installations. Uses native SSH to connect to your servers
 - **📄 Declarative**: Define your desired configuration using a simple, readable DSL
-- ** Safe-by-default**: Built-in lifecycle awareness with local state file
+- **Safe-by-default**: Built-in lifecycle awareness with local state file
 - **⛏️ Composable**: Resources like package, service, and file are first-class primitives
-- ** Fast & Lightweight**: Designed to be small, understandable, and fast to adopt
+- **Fast & Lightweight**: Designed to be small, understandable, and fast to adopt
 
 ## ️ Core Philosophy
 
